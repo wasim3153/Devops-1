@@ -1,1 +1,3 @@
-This is my first file
+This was my first file
+second line
+third line
